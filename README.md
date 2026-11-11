@@ -7,6 +7,7 @@ Every number in an episode comes from a public dataset or a small simulation. Th
 | Episode | Series | Folder |
 |---|---|---|
 | How 1,000 People Can Predict 100 Million Votes | Statistics & Probability | [`statistics/polls-margin-of-error`](statistics/polls-margin-of-error) |
+| Did the Betting Markets Beat the Polls? | Statistics & Probability | [`statistics/betting-markets`](statistics/betting-markets) |
 | Why Gas Stations Across the Street Charge the Same Price | The Invisible Board (game theory) | [`game-theory/gas-station-price-war`](game-theory/gas-station-price-war) |
 | The 1% Fee That Eats a Third of Your Savings | Money Math | [`money-math/fee-drag-calculator`](money-math/fee-drag-calculator) |
 
