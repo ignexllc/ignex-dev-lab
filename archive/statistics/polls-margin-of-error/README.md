@@ -1,6 +1,6 @@
 # How 1,000 People Can Predict 100 Million Votes
 
-Code for the Ignex Dev Lab episode (Statistics & Probability). ▶ [Watch on YouTube](https://www.youtube.com/@IgnexDevLab)
+Code for an earlier video of the channel (Statistics & Probability), now archived.
 
 Where a poll's "±3.1%" comes from, why the size of the country barely matters, and the errors no sample size fixes (non-response, weighting). The episode explains the mechanism only: no prediction, no side taken.
 

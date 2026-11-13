@@ -1,6 +1,6 @@
 # Did the Betting Markets Beat the Polls?
 
-Ignex Dev Lab · Statistics & Probability #4 (November 2026).
+Earlier video of the channel · Statistics & Probability #4 (November 2026). Archived.
 
 After the US midterms of November 3, 2026, we score the betting markets and the poll-based forecast models the way weather forecasters are scored, then look at why a crowd can be right on average while most of the people in it lose money.
 

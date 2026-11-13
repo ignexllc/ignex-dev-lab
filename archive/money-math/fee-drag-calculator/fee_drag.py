@@ -1,4 +1,4 @@
-"""The 1% fee that eats a third of your savings (Ignex Dev Lab, Money Math).
+"""The 1% fee that eats a third of your savings (archived video, Money Math).
 
     python3 fee_drag.py                                   # every number in the episode
     python3 fee_drag.py --fee 0.5 --years 30 --amount 20000 --monthly 300 --ret 6   # your own case

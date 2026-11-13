@@ -1,6 +1,6 @@
 # Why Gas Stations Across the Street Charge the Same Price
 
-Code for the Ignex Dev Lab episode (The Invisible Board: game theory). ▶ [Watch on YouTube](https://www.youtube.com/@IgnexDevLab)
+Code for an earlier video of the channel (The Invisible Board: game theory), now archived.
 
 Two identical stations, one corner: the Bertrand price war, Hotelling's beach (why they open next to each other), and the repeated game that lets both keep a high price without ever talking. The model is a toy: no real station or company is modelled.
 

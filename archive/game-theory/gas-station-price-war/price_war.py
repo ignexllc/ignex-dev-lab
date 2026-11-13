@@ -1,4 +1,4 @@
-"""Why gas stations across the street charge the same price (Ignex Dev Lab, The Invisible Board).
+"""Why gas stations across the street charge the same price (archived video, The Invisible Board).
 
 Every number in the episode, recomputed (standard library only):
     python3 price_war.py              # prints the numbers, writes output/sim_<rule>.csv

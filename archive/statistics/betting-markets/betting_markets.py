@@ -1,4 +1,4 @@
-"""Did the Betting Markets Beat the Polls? (Ignex Dev Lab, Statistics & Probability #4)
+"""Did the Betting Markets Beat the Polls? (archived video, Statistics & Probability #4)
 
 Every simulated number in the video, with the same seed:
   1. three forecasters on 1,000 races: Brier score and calibration

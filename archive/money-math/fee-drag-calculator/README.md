@@ -1,6 +1,6 @@
 # The 1% Fee That Eats a Third of Your Savings
 
-Code for the Ignex Dev Lab episode (Money Math). ▶ [Watch on YouTube](https://www.youtube.com/@IgnexDevLab)
+Code for an earlier video of the channel (Money Math), now archived.
 
 A fee of 1% a year sounds small. Over 40 years you keep 0.99⁴⁰ ≈ 67% of what you would have had, whatever the market returns. This folder is the calculator from the episode, plus every number shown on screen.
 

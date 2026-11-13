@@ -1,4 +1,4 @@
-"""How 1,000 people can predict 100 million votes (Ignex Dev Lab, Statistics & Probability).
+"""How 1,000 people can predict 100 million votes (archived video, Statistics & Probability).
 
 Every number in the episode, recomputed:
     python3 polls.py                      # the episode's numbers

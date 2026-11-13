@@ -1,30 +1,34 @@
-# Ignex Dev Lab: the lab notebook
+# PMC Studio: code and data
 
-The code behind the videos of **[Ignex Dev Lab](https://www.youtube.com/@IgnexDevLab)**: the math behind money, risk and decisions.
+The code behind the videos of **[PMC Studio - Statistics & Economics](https://www.youtube.com/@PMCStudioStats)**: the hard ideas in statistics and economics, derived and made visible.
 
-Every number in an episode comes from a public dataset or a small simulation. This repository holds those scripts so you can check the numbers, change the assumptions and run the experiment yourself.
+Every number in a video comes from a public dataset or a short simulation. This repository holds those scripts so you can check the numbers, change the assumptions and rerun the analysis yourself.
 
-| Episode | Series | Folder |
-|---|---|---|
-| How 1,000 People Can Predict 100 Million Votes | Statistics & Probability | [`statistics/polls-margin-of-error`](statistics/polls-margin-of-error) |
-| Did the Betting Markets Beat the Polls? | Statistics & Probability | [`statistics/betting-markets`](statistics/betting-markets) |
-| Why Gas Stations Across the Street Charge the Same Price | The Invisible Board (game theory) | [`game-theory/gas-station-price-war`](game-theory/gas-station-price-war) |
-| The 1% Fee That Eats a Third of Your Savings | Money Math | [`money-math/fee-drag-calculator`](money-math/fee-drag-calculator) |
+| Folder | What's inside |
+|---|---|
+| [`statistics/`](statistics) | Statistics, Derived: Bayes' theorem, the Poisson distribution, the central limit theorem, hypothesis tests, confidence intervals, regression, maximum likelihood |
+| [`economics/`](economics) | Economics, Derived: tax incidence, money creation, comparative advantage, inflation and expectations |
+| [`finance/`](finance) | Finance Math, Derived: discounting, duration, risk and return |
+| [`worked-problems/`](worked-problems) | the solutions of the Worked Problems videos, step by step |
+| [`data-projects/`](data-projects) | one real dataset, one question, the full analysis |
+| [`archive/`](archive) | code for the channel's earlier videos |
+
+Each video gets one folder with its own README, the script (fixed random seeds, so you get the numbers shown on screen) and its data with source and download date.
 
 ## Run it
 
-Python 3.10 or newer. Each folder has its own README; most scripts use only the standard library, some need `numpy`.
+Python 3.10 or newer; most scripts need only `numpy` (and `pandas` for the data projects).
 
 ```bash
-git clone https://github.com/ignexllc/ignex-dev-lab.git
-cd ignex-dev-lab/money-math/fee-drag-calculator
-python3 fee_drag.py --fee 1 --years 40
+git clone https://github.com/ignexllc/pmc-studio.git
+cd pmc-studio/statistics/<video-folder>
+python3 <script>.py
 ```
 
 ## Notes
 
-- Simplified models are labelled as such in the code and in the videos. Data files list their source and download date.
-- **Education only, not financial advice.** Nothing here recommends a fund, a product or a trade.
-- Found a mistake? Open an issue: corrections are credited in the next episode's description.
+- Simplified models are labelled as such in the code and in the videos.
+- Finance material is **education only, not financial advice.**
+- Found a mistake? Open an issue: corrections are credited in the next video's description.
 
 Code under the [MIT License](LICENSE).
